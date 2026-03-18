@@ -23,5 +23,5 @@
 
 ## 📫 Social Media
 
-[LinkedIn](https://www.linkedin.com/in/viveka-n-shetty-2bab5b353/) | [Instagram](https://instagram.com/vivek_nshetty24_) | [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/viveka-n-shetty-2bab5b353/) | [Instagram](https://instagram.com/vivek_nshetty24_) 
 
