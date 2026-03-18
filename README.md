@@ -4,8 +4,9 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=radical&hide_border=true&background=0D1117" />
+</p>
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight)
