@@ -21,7 +21,16 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📫 Social Media
+## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/viveka-n-shetty-2bab5b353/) | [Instagram](https://instagram.com/vivek_nshetty24_) 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/viveka-n-shetty-2bab5b353/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/vivek_nshetty24_" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="mailto:vivek.n.shetty.24@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
+  </a>
+</p>
