@@ -21,3 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 📫 Social Media
+
+[LinkedIn](https://www.linkedin.com/in/viveka-n-shetty-2bab5b353/) | [Instagram](https://instagram.com/vivek_nshetty24_) | [Email](mailto:youremail@example.com)
+
