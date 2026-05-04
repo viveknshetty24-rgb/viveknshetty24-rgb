@@ -1,19 +1,44 @@
+# Hi 👋, I'm Vivek Shetty
+
+💻 B.Tech CSE Student  
+🚀 Aspiring MERN Stack Developer  
+📚 Currently Learning DSA in Java  
+🌱 Exploring Full Stack Web Development  
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viveknshetty24-rgb&show_icons=true&theme=tokyonight)
 
+---
+
 ## 🔥 GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
+---
 
 ## 💻 Most Used Languages
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+- DSA using Java
+- Full Stack Web Development
+- Building Projects
+- Improving Problem Solving Skills
+
+---
 
 ## 💻 My Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,15 +46,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 My Social Media Handles
+---
+
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/viveka-n-shetty-2bab5b353/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
+
   <a href="https://instagram.com/vivek_nshetty24_" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
+
   <a href="mailto:vivek.n.shetty.24@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
   </a>
