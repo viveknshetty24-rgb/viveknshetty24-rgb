@@ -1,8 +1,8 @@
-# Hi 👋, I'm Vivek Shetty
+# Hello 👋, I'm Viveka N Shetty
 
 💻 B.Tech CSE Student  
 🚀 Aspiring MERN Stack Developer  
-📚 Currently Learning DSA in Java  
+📚 Learning DSA in Java  
 
 ---
 
