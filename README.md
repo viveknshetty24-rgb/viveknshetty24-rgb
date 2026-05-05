@@ -3,7 +3,6 @@
 💻 B.Tech CSE Student  
 🚀 Aspiring MERN Stack Developer  
 📚 Currently Learning DSA in Java  
-🌱 Exploring Full Stack Web Development  
 
 ---
 
