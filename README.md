@@ -1,6 +1,6 @@
 # Hello 👋, I'm Viveka N Shetty
 
-💻 B.Tech CSE Student  
+💻 B.Tech 3rd Year CSE Student  
 🚀 Aspiring MERN Stack Developer  
 📚 Learning DSA in Java  
 
