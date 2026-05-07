@@ -2,7 +2,7 @@
 
 💻 B.Tech 3rd Year CSE Student  
 🚀 Aspiring MERN Stack Developer  
-📚 Learning DSA in Java  
+📚 Learning to solve problems and logic building in Java  
 
 ---
 
