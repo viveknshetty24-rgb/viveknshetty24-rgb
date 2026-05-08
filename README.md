@@ -27,7 +27,7 @@
 ## 🎯 Current Focus
 
 - DSA using Java
-- Full Stack Web Development
+- MERN FullStack 
 - Building Projects
 - Improving Problem Solving Skills
 
