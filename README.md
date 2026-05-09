@@ -29,7 +29,7 @@
 - DSA using Java
 - MERN FullStack 
 - Building Projects
-- Improving Problem Solving Skills
+- Improving Problem Solving/Logic Building Skills
 
 ---
 
