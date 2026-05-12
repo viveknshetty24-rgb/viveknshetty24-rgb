@@ -26,7 +26,7 @@
 
 ## 🎯 Current Focus
 
-- DSA in Java
+- DSA with Java
 - MERN Stack 
 - Building Projects
 - Improving Problem Solving & Logic Building Skills
