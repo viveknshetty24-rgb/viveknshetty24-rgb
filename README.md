@@ -1,4 +1,4 @@
-# Hello 👋, I'm Viveka N Shetty
+# Hello , I'm Viveka N Shetty
 
 💻 B.Tech 3rd Year CSE Student  
 🚀 Aspiring MERN Stack Developer  
