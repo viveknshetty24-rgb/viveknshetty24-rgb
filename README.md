@@ -1,8 +1,8 @@
 # Hello , I'm Viveka N Shetty
 
-💻 B.Tech 3rd Year CSE Student  
-🚀 Aspiring MERN Stack Developer  
-📚 Learning to Solve Problems and Logic Building in Java  
+💻 `B.Tech 3rd Year CSE Student`
+🚀 `Aspiring MERN Stack Developer` 
+📚 `Learning to Solve Problems and Logic Building in Java`  
 
 ---
 
