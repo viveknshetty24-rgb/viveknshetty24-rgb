@@ -51,11 +51,11 @@ Goal: Become a Skilled Full Stack Developer
 ## 👨‍💻 Languages
 <img src="https://skillicons.dev/icons?i=c,java,javascript" />
 
-## 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+## 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 ## ⚙️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -115,7 +115,7 @@ Goal: Become a Skilled Full Stack Developer
 
 <div align="center">
 
-## ⚡ “Code • Learn • Build • Repeat” ⚡
+## ⚡ Code • Learn • Build • Repeat ⚡
 
 <img src="https://komarev.com/ghpvc/?username=viveknshetty24-rgb&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
