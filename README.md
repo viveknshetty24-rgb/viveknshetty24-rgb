@@ -1,122 +1,60 @@
-<div align="center">
+<!-- BACKGROUND MATRIX HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=slice&color=051329&secondaryColor=00f0ff&height=220&section=header&text=USER%20PROTOCOL:%20VIVEKA%20N%20SHETTY&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="System Header" />
+</p>
 
-# ⚡ VIVEKA N SHETTY ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Aspiring+MERN+Stack+Developer;Java+%7C+DSA+%7C+Web+Development;Building+Projects+and+Improving+Everyday+🚀" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284068-7c4f5c44-7d6d-4c65-bb6c-6d53c5b6dbbf.gif" width="700">
-
-</div>
-
----
-
-# 💫 About Me
-
-```yaml
-Name: Viveka N Shetty
-Education: B.Tech CSE Student
-Focus: MERN Stack Development
-Learning: Java + DSA + Problem Solving
-Goal: Become a Skilled Full Stack Developer
-```
-
-💻 Passionate about building modern web applications  
-🚀 Currently improving problem-solving & logic-building skills  
-⚡ Love learning new technologies and building cool projects  
-
----
-
-# 🌐 Connect With Me
+<!-- COGNITIVE INTERFACE INTERCEPT -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viveknshetty24-rgb&style=flat-square&color=00f0ff&label=CORE+LINK+STABILITY" alt="System Traffic" />
+</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/viveka-n-shetty-2bab5b353/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+  <code>⚡ SYSTEM_STATUS: ONLINE</code> &nbsp;&nbsp;│&nbsp;&nbsp; 
+  <code>📡 LAYER: B.Tech 3rd Year CSE Student</code> &nbsp;&nbsp;│&nbsp;&nbsp; 
+  <code>🚀 PATH: Aspiring MERN Stack Developer</code>
+</p>
 
-<a href="https://instagram.com/vivek_nshetty24_">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="mailto:vivek.n.shetty.24@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+<p align="center">
+  <code>📖 OBJECTIVE: Learning to Solve Problems and Logic Building in Java</code>
 </p>
 
 ---
 
-# ⚒️ Tech Stack
+## 📊 TELEMETRY & QUANTUM DIAGNOSTICS
 
-<div align="center">
-
-## 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=c,java,javascript" />
-
-## 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-## ⚙️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=viveknshetty24-rgb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
+<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #00f0ff; background-color: #030d1a;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #1a365d; padding: 15px;">
+      <kbd>⚡ CORE METRICS</kbd>
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=viveknshetty24-rgb&show_icons=true&theme=tokyonight" alt="GitHub stats" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #1a365d; padding: 15px;">
+      <kbd>🔥 UPTIME STREAK</kbd>
+      <br/><br/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top" style="border: 1px solid #1a365d; padding: 15px;">
+      <kbd>💻 COMPILER ALLOCATION</kbd>
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight" alt="Top Langs" width="80%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🎯 CURRENT FOCUS & MISSION CRITICAL TARGETS
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=viveknshetty24-rgb&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viveknshetty24-rgb&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-✔ Master MERN Stack  
-✔ Improve DSA with Java  
-✔ Build Real World Projects  
-✔ Strengthen Problem Solving Skills  
-✔ Become Industry Ready 🚀  
-
----
-
-<div align="center">
-
-## ⚡ Code • Learn • Build • Repeat ⚡
-
-<img src="https://komarev.com/ghpvc/?username=viveknshetty24-rgb&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+```yaml
+[CURRENT PROTOCOLS RUNNING]
+─────────────────────────────────────────────────────────────
+  - 📂 DSA with Java
+  - 🌐 MERN Stack 
+  - 🛠️ Building Projects
+  - 🧠 Improving Problem Solving & Logic Building Skills
+─────────────────────────────────────────────────────────────
