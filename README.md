@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 TELEMETRY & QUANTUM DIAGNOSTICS
+
 
 <table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #00f0ff; background-color: #030d1a;">
   <tr>
