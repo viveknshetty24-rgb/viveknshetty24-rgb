@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🚀 CSE Student | MERN Developer | Java Learner
+🚀 CSE Student | Aspiring MERN Developer | Java Learner
 </h3>
 
 <p align="center">
