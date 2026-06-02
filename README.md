@@ -19,7 +19,7 @@ Building projects, improving logic, and learning every day.
 ```yaml
 STATUS: ONLINE
 MODE: LEARNING
-FOCUS: CONSISTENCY
+FOCUS: TO STAY CONSISTENT
 MISSION: BECOME A SKILLED DEVELOPER
 ```
 
