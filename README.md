@@ -28,7 +28,7 @@ MISSION: BECOME A SKILLED DEVELOPER
 ## 🎯 CURRENT QUESTS
 
 ```txt
-📚 Data Structures & Algorithms (Java)
+📚 Data Structures & Algorithms using JAVA
 🌐 MERN Stack Development
 🛠️ Building Real-World Projects
 🧠 Problem Solving & Logic Building
