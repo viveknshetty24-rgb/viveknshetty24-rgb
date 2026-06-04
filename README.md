@@ -58,7 +58,7 @@ MISSION: BECOME A SKILLED DEVELOPER
 ## 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight&border_radius=15" />
 </p>
 
 ---
