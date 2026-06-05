@@ -67,7 +67,7 @@ MISSION: BECOME A SKILLED DEVELOPER
 
 ```txt
 > Learning Java
-> Building MERN Projects
+> Learning MERN Stack Development
 > Practicing DSA
 > Improving Daily
 ```
