@@ -69,7 +69,7 @@ MISSION: BECOME A SKILLED DEVELOPER
 > Learning Java
 > Learning MERN Stack Development
 > Practicing DSA
-> Improving Daily
+> Improving Knowledge Daily
 ```
 
 ---
