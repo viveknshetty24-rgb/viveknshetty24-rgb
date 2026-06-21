@@ -76,6 +76,6 @@ MISSION: BECOME A SKILLED DEVELOPER
 
 <p align="center">
 
-"Small progress every day beats motivation."
+"Small progress every single day beats motivation."
 
 </p>
