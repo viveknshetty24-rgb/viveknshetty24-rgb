@@ -1,81 +1,175 @@
-<!-- FUTURE INTERFACE HEADER -->
+<!-- ========================= -->
+<!-- FUTURISTIC HEADER -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&height=250&color=0:0f172a,100:06b6d4&text=VIVEKA%20N%20SHETTY&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:06b6d4&text=VIVEKA%20N%20SHETTY&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h3 align="center">
-🚀 CSE Student | Learning MERN Developer | Java Learner
-</h3>
+<h2 align="center">
+🚀 CSE Student • MERN Developer (Learning) • Java Learner
+</h2>
 
 <p align="center">
-Building projects, improving logic, and learning every day.
+<i>Building projects • Improving Logic • Learning Every Day</i>
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=viveknshetty24-rgb&style=for-the-badge&color=0e75b6)
+
 </p>
 
 ---
 
-## ⚡ SYSTEM STATUS
+# ⚡ SYSTEM STATUS
+
+<p align="center">
 
 ```yaml
-STATUS: ONLINE
-MODE: LEARNING
-FOCUS: TO STAY CONSISTENT
-MISSION: BECOME A SKILLED DEVELOPER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS   : 🟢 ONLINE
+MODE     : 📚 LEARNING
+FOCUS    : 🎯 STAY CONSISTENT
+MISSION  : 🚀 BECOME A SKILLED DEVELOPER
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+</p>
 
 ---
 
-## 🎯 CURRENT QUESTS
+# 🎯 CURRENT QUESTS
 
-```txt
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📚 Data Structures & Algorithms using JAVA
+
 🌐 MERN Stack Development
-🛠️ Building Real-World Projects
+
+🛠 Building Real-World Projects
+
 🧠 Problem Solving & Logic Building
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## 🛠 TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode" />
-
-</div>
-
----
-
-## 📊 GITHUB ANALYTICS
+# 🛠 TECH STACK
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viveknshetty24-rgb&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode&perline=6"/>
+
 </p>
 
 ---
 
-## 🔥 CONTRIBUTION STREAK
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight&border_radius=15" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=viveknshetty24-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📡 DEVELOPER LOG
+# 🔥 CONTRIBUTION STREAK
 
-```txt
-> Learning Java
-> Learning MERN Stack Development
-> Practicing DSA
-> Improving Knowledge Daily
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=viveknshetty24-rgb&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 📡 DEVELOPER LOG
+
+```bash
+$ boot developer_profile
+
+✔ Learning Java
+✔ Learning MERN Stack Development
+✔ Practicing DSA
+✔ Improving Knowledge Daily
+
+Status : Progressing...
+```
+
+---
+
+# ⚙️ TERMINAL
+
+```text
+vivek@developer:~$
+
+> java --learning
+Running...
+
+> npm run practice
+Running...
+
+> git commit -m "Small Improvements"
+
+✓ Consistency Updated Successfully.
+```
+
+---
+
+# 🚀 CURRENT ROADMAP
+
+```mermaid
+flowchart LR
+
+A[Learn Java]
+-->
+B[Practice DSA]
+-->
+C[Master MERN]
+-->
+D[Build Projects]
+-->
+E[Become Skilled Developer]
+```
+
+---
+
+# 📈 PROGRESS
+
+```text
+Java                ███████░░░ 70%
+
+DSA                 █████░░░░░ 50%
+
+MERN                ████░░░░░░ 40%
+
+Projects            ███░░░░░░░ 30%
+
+Consistency         ██████████ 100%
 ```
 
 ---
 
 <p align="center">
 
-"Small progress every single day beats motivation."
+### 💡 Quote of the Day
+
+> **"Small progress every single day beats motivation."**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0f172a&height=120&section=footer"/>
 
 </p>
