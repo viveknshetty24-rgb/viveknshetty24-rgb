@@ -103,25 +103,6 @@ $ boot developer_profile
 
 Status : Progressing...
 ```
-
----
-
-# ⚙️ TERMINAL
-
-```text
-vivek@developer:~$
-
-> java --learning
-Running...
-
-> npm run practice
-Running...
-
-> git commit -m "Small Improvements"
-
-✓ Consistency Updated Successfully.
-```
-
 ---
 
 # 🚀 CURRENT ROADMAP
