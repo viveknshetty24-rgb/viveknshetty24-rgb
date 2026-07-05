@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!-- FUTURISTIC HEADER -->
-<!-- ========================= -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:06b6d4&text=VIVEKA%20N%20SHETTY&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40"/>
 </p>
