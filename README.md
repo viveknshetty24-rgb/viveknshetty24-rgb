@@ -18,7 +18,7 @@ Hi, I'm **Vivek**! I am a Computer Science and Engineering student passionate ab
 *   🎓 **Currently Studying:** B.Tech in Computer Science and Engineering.
 *   💻 **Current Focus:** Mastering **Java** for Data Structures & Algorithms (DSA) and learning the **MERN Stack** (MongoDB, Express, React, Node.js).
 *   🌱 **Learning Journey:** Focused on writing clean code every day, building problem-solving reflexes, and maintaining a consistent GitHub commit streak.
-*   ⚡ **Fun Fact:** I type at 45 WPM and spend my downtime playing cricket or gaming. 
+*   ⚡ **Fun Fact:** I spend my downtime playing cricket or gaming. 
 
 ---
 
