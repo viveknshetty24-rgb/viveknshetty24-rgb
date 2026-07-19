@@ -41,7 +41,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,mongodb,mysql,git,github,vscode" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:9C27B0&height=3&section=header" width="100%"/>
