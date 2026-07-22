@@ -22,7 +22,7 @@
 
 - 🌱 Currently learning: **DSA, MERN Stack & Java**
 - 💬 Ask me about: **Java, JavaScript, HTML, CSS**
-- 🏏 Fun Fact: **I enjoy playing Cricket!**
+-  Fun Fact: **I enjoy playing Cricket!**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:9C27B0&height=3&section=header" width="100%"/>
 
