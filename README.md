@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-> **Goal:** Become a **Full Stack Developer** 🚀
+> **Goal:** Become a **MERN Full Stack Developer** 🚀
 
 - 🌱 Currently learning: **DSA, MERN Stack & Java**
 - 💬 Ask me about: **Java, JavaScript, HTML, CSS**
