@@ -97,6 +97,4 @@ Uncomment the section below after adding the GitHub Action from https://github.c
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:2196F3&height=120&section=footer&animation=twinkling" width="100%"/>
 
-### ⭐ Thanks for visiting my profile!
-
 </div>
