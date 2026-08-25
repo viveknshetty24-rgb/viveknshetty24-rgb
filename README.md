@@ -68,8 +68,8 @@ Focused on mastering core fundamentals and building real-world projects:
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveknshetty24-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
   <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveknshetty24-rgb&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=9C27B0&currStreakNum=ffffff" alt="GitHub Streak" />
+  
+<img src="https://streak-stats.demolab.com/?user=viveknshetty24-rgb&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=9C27B0&currStreakNum=ffffff" alt="GitHub Streak" />
 
   <br/><br/>
 
